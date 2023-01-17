@@ -1,0 +1,10 @@
+i,3
+she,2
+a,2
+married,1
+very,1
+nice,1
+young,1
+architect,1
+from,1
+belfast,1
